@@ -1,4 +1,4 @@
-# Spot - Alquiler de Parking Privado por Horas o Días
+# Spot 
 
 Frontend de **Spot**, una aplicación web tipo Airbnb para alquilar plazas de parking privadas en España por horas o días.
 
