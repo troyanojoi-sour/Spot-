@@ -1,6 +1,6 @@
 # Spot 
 
-Frontend de **Spot**, una aplicación web tipo  para alquilar plazas de parking privadas 
+Frontend de **Spot**, una aplicación web tipo  para alquilar plazas de parking privadas que por ahora esta en beta.
 
 ---
 
