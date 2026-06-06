@@ -1,6 +1,6 @@
 # Spot 
 
-Frontend de **Spot**, una aplicación web tipo Airbnb para alquilar plazas de parking privadas en España por horas o días.
+Frontend de **Spot**, una aplicación web tipo  para alquilar plazas de parking privadas 
 
 ---
 
